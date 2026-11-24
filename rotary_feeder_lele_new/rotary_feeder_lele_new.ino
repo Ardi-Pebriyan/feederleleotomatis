@@ -1,7 +1,7 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL6QhHfbNhK"
-#define BLYNK_TEMPLATE_NAME "Rotary Feeder"
-#define BLYNK_AUTH_TOKEN "CrTfIoWqIVcGmbxT_1iJlnEnSN2KQmc3"
+#define BLYNK_TEMPLATE_ID "id template kamu yg ada di blynk"
+#define BLYNK_TEMPLATE_NAME "nama template kamu yg ada di blynk"
+#define BLYNK_AUTH_TOKEN "token template kamu yang ada di  blynk"
 
 
 #define BLYNK_PRINT Serial
